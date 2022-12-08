@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2022-12-08 23:25:40 +0900
-categories: jekyll update
+title:  fourth post
+date:   2022-12-04 23:25:40 +0900
+image:  /assets/images/blog/post-4.jpg
+author: CupBot
+tags:   UX design
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
